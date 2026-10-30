@@ -18,9 +18,11 @@ A small floating window that shows your **OpenCode Go** quotas and your **Zen** 
 
 Bars turn **yellow at 60%** and **red at 85%**. Cross 85% and Herdr sends a native notification once, then stays quiet until the quota resets.
 
+<h3 align="center">Built with Gentle-AI</h3>
+
 <p align="center">
   <a href="https://github.com/Gentleman-Programming/gentle-ai">
-    <img width="140" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
+    <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
   </a>
 </p>
 
