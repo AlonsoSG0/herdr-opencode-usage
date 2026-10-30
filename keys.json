@@ -1,0 +1,7 @@
+{
+  "global": { "ctrl-alt-u": "mod.open:herdr-opencode-usage" },
+  "mod:herdr-opencode-usage": {
+    "ctrl-alt-u": "herdr-opencode-usage.close",
+    "escape": "herdr-opencode-usage.close"
+  }
+}
