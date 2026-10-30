@@ -2,6 +2,8 @@
 
 A small floating window that shows your **OpenCode Go** quotas and your **Zen** balance, read straight from the credentials OpenCode already saved.
 
+[![Built with Gentle-AI](https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png)](https://github.com/Gentleman-Programming/gentle-ai)
+
 ![OpenCode Usage](preview.png)
 
 ---
