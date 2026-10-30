@@ -2,8 +2,6 @@
 
 A small floating window that shows your **OpenCode Go** quotas and your **Zen** balance, read straight from the credentials OpenCode already saved.
 
-[![Built with Gentle-AI](https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png)](https://github.com/Gentleman-Programming/gentle-ai)
-
 ![OpenCode Usage](preview.png)
 
 ---
@@ -19,6 +17,12 @@ A small floating window that shows your **OpenCode Go** quotas and your **Zen** 
 | **Last model** | The most recent Go model used on this machine |
 
 Bars turn **yellow at 60%** and **red at 85%**. Cross 85% and Herdr sends a native notification once, then stays quiet until the quota resets.
+
+<p align="center">
+  <a href="https://github.com/Gentleman-Programming/gentle-ai">
+    <img width="140" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
+  </a>
+</p>
 
 ## Install
 
